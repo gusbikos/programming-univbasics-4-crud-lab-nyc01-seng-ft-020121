@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 list = ["hi", "how", "are", "you", "doing"]
-list.push("great")
+list.push("arrays!")
 
 end
 
