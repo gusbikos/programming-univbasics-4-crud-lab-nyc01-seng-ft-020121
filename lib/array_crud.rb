@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 list = [1,2,3]
-list.push(4)
+list.push 4
 
 end
 
