@@ -43,5 +43,6 @@ list[4]
 end
 
 def update_element_from_index(array, index_number, element)
-
+list = ["wow", "first", "element", "of", "arrays!"]
+list[2] = "totally"
 end
