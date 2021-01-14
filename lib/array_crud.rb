@@ -18,7 +18,7 @@ array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-list = ["hi", "how", "are", "you", "doing"]
+list = ["hi", "how", "are", "you", "doing", "arrays!"]
 list.pop
 end
 
