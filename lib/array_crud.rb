@@ -28,7 +28,8 @@ list.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-
+list = ["wow", "am", "index"]
+list.delete_at[1]
 end
 
 def retrieve_first_element_from_array(array)
