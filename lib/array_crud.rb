@@ -13,8 +13,8 @@ list.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-list = [1, 2, 3, 4, 5]
-list.unshift(4)
+list = ["hi", "add", "me", "to", "front"]
+list.unshift("front")
 end
 
 def remove_element_from_end_of_array(array)
